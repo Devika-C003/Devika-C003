@@ -98,14 +98,8 @@ body.demo-main {
   background-color: #303133; }
 
 img {
-  width: 0;
-  height: 0; }
-
-.myprofile {
-  width : 100%;
-  height : auto;
-
-}
+  width: 100%;
+  height: auto; }
 
 header.demo-banner {
   margin: 100px 0; }
